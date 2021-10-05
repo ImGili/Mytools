@@ -1,0 +1,3 @@
+[submodule "tools/vendor/glm"]
+	path = tools/vendor/glm
+	url = git@github.com:Groovounet/glm.git

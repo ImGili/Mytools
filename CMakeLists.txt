@@ -25,6 +25,7 @@ endif()
 
 
 include_directories(                tools/include/
+                                    tools/vendor/glm
                                     )
 
 file(GLOB PROJECT_HEADERS           tools/include/*.hpp
